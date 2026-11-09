@@ -119,6 +119,9 @@ body.hide-en .en{visibility:hidden}
 .vmain{display:flex;flex-direction:column;gap:.08rem;min-width:0}
 .vdef{font-size:.86rem;color:var(--ink-2);line-height:1.35}
 .fdef{font-style:normal;color:var(--ink-2);font-size:.86rem}
+/* English learning words use a Latin-first system stack: Gothic A1 ExtraBold
+   renders lowercase i as a bare stem that reads as capital I. */
+.vko,.eli b,.hook,.fv b,.vdef,.fdef{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
 body.hide-vko .vko:not(.shown),body.hide-ven .ven:not(.shown){color:transparent;background:var(--ground);border-radius:6px;cursor:pointer;user-select:none}
 
 /* ---------- full text ---------- */
