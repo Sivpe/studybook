@@ -295,25 +295,29 @@
      "audio": "audio/v01.mp3",
      "def": "A teacher who teaches an activity, like swimming or fishing.",
      "en": "គ្រូបង្ហាត់",
-     "ko": "instructor"
+     "ko": "instructor",
+     "pos": "noun"
     },
     {
      "audio": "audio/v02.mp3",
      "def": "To put your things into a bag before a trip.",
      "en": "ខ្ចប់ឥវ៉ាន់",
-     "ko": "pack"
+     "ko": "pack",
+     "pos": "verb"
     },
     {
      "audio": "audio/v03.mp3",
      "def": "A place where people sleep in tents.",
      "en": "ទីតាំងបោះតង់",
-     "ko": "campsite"
+     "ko": "campsite",
+     "pos": "noun"
     },
     {
      "audio": "audio/v04.mp3",
      "def": "The long sticks that hold up a tent.",
      "en": "បង្គោលតង់",
-     "ko": "tent poles"
+     "ko": "tent poles",
+     "pos": "noun"
     }
    ],
    "title": "The trip"
@@ -325,25 +329,29 @@
      "audio": "audio/v05.mp3",
      "def": "Completely dark.",
      "en": "ងងឹតឈឹង",
-     "ko": "pitch black"
+     "ko": "pitch black",
+     "pos": "adjective"
     },
     {
      "audio": "audio/v06.mp3",
      "def": "Worried and a little afraid.",
      "en": "ព្រួយបារម្ភ",
-     "ko": "anxious"
+     "ko": "anxious",
+     "pos": "adjective"
     },
     {
      "audio": "audio/v07.mp3",
      "def": "A fire you make outside to cook and keep warm.",
      "en": "ភ្លើងជំរុំ",
-     "ko": "campfire"
+     "ko": "campfire",
+     "pos": "noun"
     },
     {
      "audio": "audio/v08.mp3",
      "def": "To go away so nobody can see it or find it.",
      "en": "បាត់ទៅ",
-     "ko": "disappear"
+     "ko": "disappear",
+     "pos": "verb"
     }
    ],
    "title": "The night"
@@ -355,25 +363,29 @@
      "audio": "audio/v09.mp3",
      "def": "Dry yellow plant stems, like rice after the harvest.",
      "en": "ចំបើង",
-     "ko": "straw"
+     "ko": "straw",
+     "pos": "noun"
     },
     {
      "audio": "audio/v10.mp3",
      "def": "A straw figure of a person that scares birds away from fields.",
      "en": "ទីងមោង",
-     "ko": "scarecrow"
+     "ko": "scarecrow",
+     "pos": "noun"
     },
     {
      "audio": "audio/v11.mp3",
      "def": "Catching fish with a rod or a net.",
      "en": "ការស្ទូចត្រី",
-     "ko": "fishing"
+     "ko": "fishing",
+     "pos": "noun"
     },
     {
      "audio": "audio/v12.mp3",
      "def": "To talk someone into doing something.",
      "en": "បញ្ចុះបញ្ចូល",
-     "ko": "persuade"
+     "ko": "persuade",
+     "pos": "verb"
     }
    ],
    "title": "The forest"
