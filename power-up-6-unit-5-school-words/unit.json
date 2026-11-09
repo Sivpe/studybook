@@ -140,19 +140,19 @@
  },
  "full": [
   {
-   "title": "Lessons · មេរៀន",
+   "en": "ខ្ញុំរៀនវគ្គភាសាអង់គ្លេសក្រោយម៉ោងសិក្សា។ សៀវភៅនេះសម្រាប់សិស្សកម្រិតទីប្រាំមួយ។ អាណត្តិសិក្សានេះ យើងរៀនអំពីសាលារៀន និងការធ្វើដំណើរ។",
    "ko": "I take an English course after school. This book is for level six students. This term, we learn about school and travel.",
-   "en": "ខ្ញុំរៀនវគ្គភាសាអង់គ្លេសក្រោយម៉ោងសិក្សា។ សៀវភៅនេះសម្រាប់សិស្សកម្រិតទីប្រាំមួយ។ អាណត្តិសិក្សានេះ យើងរៀនអំពីសាលារៀន និងការធ្វើដំណើរ។"
+   "title": "Lessons · មេរៀន"
   },
   {
-   "title": "School work · ការងារសាលា",
+   "en": "សូមសរសេរអត្ថបទខ្លីមួយអំពីសាលារៀនរបស់អ្នក។ គម្រោងក្រុមរបស់យើងនិយាយអំពីទឹកស្អាត។ សូមអានការណែនាំមុនពេលអ្នកចាប់ផ្តើម។ សូមរកព័ត៌មាននៅលើគេហទំព័ររបស់សាលា។",
    "ko": "Write a short essay about your school. Our team project is about clean water. Read the instructions before you start. Find information on the school website.",
-   "en": "សូមសរសេរអត្ថបទខ្លីមួយអំពីសាលារៀនរបស់អ្នក។ គម្រោងក្រុមរបស់យើងនិយាយអំពីទឹកស្អាត។ សូមអានការណែនាំមុនពេលអ្នកចាប់ផ្តើម។ សូមរកព័ត៌មាននៅលើគេហទំព័ររបស់សាលា។"
+   "title": "School work · ការងារសាលា"
   },
   {
-   "title": "Results · លទ្ធផល",
+   "en": "យើងមានការប្រឡងភាសាអង់គ្លេសនៅថ្ងៃសុក្រ។ គាត់ទទួលបានពិន្ទុខ្ពស់ក្នុងភាសាអង់គ្លេស។ នាងទទួលបានវិញ្ញាបនបត្រសម្រាប់ការងារល្អរបស់នាង។",
    "ko": "We have an English test on Friday. He got a high mark in English. She got a certificate for her good work.",
-   "en": "យើងមានការប្រឡងភាសាអង់គ្លេសនៅថ្ងៃសុក្រ។ គាត់ទទួលបានពិន្ទុខ្ពស់ក្នុងភាសាអង់គ្លេស។ នាងទទួលបានវិញ្ញាបនបត្រសម្រាប់ការងារល្អរបស់នាង។"
+   "title": "Results · លទ្ធផល"
   }
  ],
  "full_title": "The term, start to finish",
@@ -272,19 +272,22 @@
    "color": "#0052A4",
    "items": [
     {
+     "audio": "audio/v01.mp3",
+     "def": "Lessons you take to learn a subject.",
      "en": "វគ្គសិក្សា",
-     "ko": "course",
-     "audio": "audio/v01.mp3"
+     "ko": "course"
     },
     {
+     "audio": "audio/v02.mp3",
+     "def": "A stage of learning; how good you are at something.",
      "en": "កម្រិត",
-     "ko": "level",
-     "audio": "audio/v02.mp3"
+     "ko": "level"
     },
     {
+     "audio": "audio/v03.mp3",
+     "def": "One part of the school year.",
      "en": "អាណត្តិសិក្សា",
-     "ko": "term",
-     "audio": "audio/v03.mp3"
+     "ko": "term"
     }
    ],
    "title": "Lessons"
@@ -293,24 +296,28 @@
    "color": "#00A84D",
    "items": [
     {
+     "audio": "audio/v04.mp3",
+     "def": "A short piece of writing about one subject.",
      "en": "អត្ថបទ",
-     "ko": "essay",
-     "audio": "audio/v04.mp3"
+     "ko": "essay"
     },
     {
+     "audio": "audio/v05.mp3",
+     "def": "A big piece of work that you plan and make.",
      "en": "គម្រោង",
-     "ko": "project",
-     "audio": "audio/v05.mp3"
+     "ko": "project"
     },
     {
+     "audio": "audio/v06.mp3",
+     "def": "Words that tell you how to do something.",
      "en": "ការណែនាំ",
-     "ko": "instructions",
-     "audio": "audio/v06.mp3"
+     "ko": "instructions"
     },
     {
+     "audio": "audio/v07.mp3",
+     "def": "Facts and details about something.",
      "en": "ព័ត៌មាន",
-     "ko": "information",
-     "audio": "audio/v07.mp3"
+     "ko": "information"
     }
    ],
    "title": "School work"
@@ -319,19 +326,22 @@
    "color": "#EF7C1C",
    "items": [
     {
+     "audio": "audio/v08.mp3",
+     "def": "Questions you answer to show what you know.",
      "en": "តេស្ត / ការប្រឡងខ្លី",
-     "ko": "test",
-     "audio": "audio/v08.mp3"
+     "ko": "test"
     },
     {
+     "audio": "audio/v09.mp3",
+     "def": "A number or grade that shows how good your work is.",
      "en": "ពិន្ទុ",
-     "ko": "mark",
-     "audio": "audio/v09.mp3"
+     "ko": "mark"
     },
     {
+     "audio": "audio/v10.mp3",
+     "def": "An official paper that says you passed or finished something.",
      "en": "វិញ្ញាបនបត្រ",
-     "ko": "certificate",
-     "audio": "audio/v10.mp3"
+     "ko": "certificate"
     }
    ],
    "title": "Results"
