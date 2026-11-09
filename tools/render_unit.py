@@ -193,7 +193,7 @@ def render(u):
         vh.append(f'<h2 class="vgrp"{lc}>{m(g["title"])}</h2><ul class="vlist">')
         for it in g['items']:
             df = f'<span class="vdef" lang="en">{t(it["def"])}</span>' if it.get('def') else ''
-            ps = f'<span class="vpos" lang="en">{t(it["pos"])}</span>' if it.get('pos') else ''
+            ps = f'<span class="vpos" lang="en">({t(it["pos"])})</span>' if it.get('pos') else ''
             vh.append(f'<li class="voc">{listen(it.get("audio"), mini=True)}<span class="vmain"><span class="vtop"><span class="vko has-en" lang="ko">{t(it["ko"])}</span>{ps}</span>{df}</span>'
                       f'<span class="ven">{t(it["en"])}</span></li>')
         vh.append('</ul>')
@@ -218,7 +218,7 @@ def render(u):
     fh.append(f'<h2>{m(f"단어 · Vocabulary ({vcount})")}</h2>')
     for g in u['vocab']:
         fh.append(f'<h3>{m(g["title"])}</h3><div class="fvoc">'
-                  + ''.join(f'<div class="fv"><b class="has-en" lang="ko">{t(it["ko"])}</b>' + (f'<small class="fpos">{t(it["pos"])}</small>' if it.get('pos') else '') + (f'<i class="fdef">{t(it["def"])}</i>' if it.get('def') else '') + f'<span>{t(it["en"])}</span></div>' for it in g['items'])
+                  + ''.join(f'<div class="fv"><b class="has-en" lang="ko">{t(it["ko"])}</b>' + (f'<small class="fpos">({t(it["pos"])})</small>' if it.get('pos') else '') + (f'<i class="fdef">{t(it["def"])}</i>' if it.get('def') else '') + f'<span>{t(it["en"])}</span></div>' for it in g['items'])
                   + '</div>')
 
     credit = f'<p class="credit">{t(u["credit"])}</p>' if u.get('credit') else ''

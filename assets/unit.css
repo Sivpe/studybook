@@ -122,9 +122,9 @@ body.hide-en .en{visibility:hidden}
 /* English learning words use a Latin-first system stack: Gothic A1 ExtraBold
    renders lowercase i as a bare stem that reads as capital I. */
 .vko,.eli b,.hook,.fv b,.vdef,.fdef,.vpos,.fpos{font-family:system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif}
-.vtop{display:flex;align-items:baseline;gap:.45rem;flex-wrap:wrap}
-.vpos{font-size:.7rem;font-weight:700;font-style:italic;color:var(--ink-2);background:var(--ground);border-radius:5px;padding:.08rem .35rem}
-.fpos{font-style:italic;color:var(--ink-2);font-size:.8rem}
+.vtop{display:flex;align-items:baseline;gap:.35rem;flex-wrap:wrap}
+.vpos{font-size:.92rem;font-weight:500;color:var(--ink-2)}
+.fpos{color:var(--ink-2);font-size:.86rem}
 body.hide-vko .vko:not(.shown),body.hide-ven .ven:not(.shown){color:transparent;background:var(--ground);border-radius:6px;cursor:pointer;user-select:none}
 
 /* ---------- full text ---------- */
