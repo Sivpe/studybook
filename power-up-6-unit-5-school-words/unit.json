@@ -1,0 +1,340 @@
+{
+ "cards": [
+  {
+   "alt": "An open book for a course",
+   "audio": "audio/c1.mp3",
+   "en": "ខ្ញុំរៀនវគ្គភាសាអង់គ្លេសក្រោយម៉ោងសិក្សា។",
+   "flat": true,
+   "hook": "course",
+   "img": "img/c1-book.svg",
+   "ko": "I take an English course after school.",
+   "sec": "lessons"
+  },
+  {
+   "alt": "Steps going up, for a level",
+   "audio": "audio/c2.mp3",
+   "en": "សៀវភៅនេះសម្រាប់សិស្សកម្រិតទីប្រាំមួយ។",
+   "flat": true,
+   "hook": "level",
+   "img": "img/c2-level.svg",
+   "ko": "This book is for level six students.",
+   "sec": "lessons"
+  },
+  {
+   "alt": "A school calendar for the term",
+   "audio": "audio/c3.mp3",
+   "en": "អាណត្តិសិក្សានេះ យើងរៀនអំពីសាលារៀន និងការធ្វើដំណើរ។",
+   "flat": true,
+   "hook": "term",
+   "img": "img/c3-calendar.svg",
+   "ko": "This term, we learn about school and travel.",
+   "sec": "lessons"
+  },
+  {
+   "alt": "A page of writing for an essay",
+   "audio": "audio/c4.mp3",
+   "en": "សូមសរសេរអត្ថបទខ្លីមួយអំពីសាលារៀនរបស់អ្នក។",
+   "flat": true,
+   "hook": "essay",
+   "img": "img/c4-essay.svg",
+   "ko": "Write a short essay about your school.",
+   "sec": "work"
+  },
+  {
+   "alt": "A poster board for a project",
+   "audio": "audio/c5.mp3",
+   "en": "គម្រោងក្រុមរបស់យើងនិយាយអំពីទឹកស្អាត។",
+   "flat": true,
+   "hook": "project",
+   "img": "img/c5-project.svg",
+   "ko": "Our team project is about clean water.",
+   "sec": "work"
+  },
+  {
+   "alt": "A clipboard with instructions",
+   "audio": "audio/c6.mp3",
+   "en": "សូមអានការណែនាំមុនពេលអ្នកចាប់ផ្តើម។",
+   "flat": true,
+   "hook": "instructions",
+   "img": "img/c6-instructions.svg",
+   "ko": "Read the instructions before you start.",
+   "sec": "work"
+  },
+  {
+   "alt": "An information sign",
+   "audio": "audio/c7.mp3",
+   "en": "សូមរកព័ត៌មាននៅលើគេហទំព័ររបស់សាលា។",
+   "flat": true,
+   "hook": "information",
+   "img": "img/c7-information.svg",
+   "ko": "Find information on the school website.",
+   "sec": "work"
+  },
+  {
+   "alt": "A test paper with a clock",
+   "audio": "audio/c8.mp3",
+   "en": "យើងមានការប្រឡងភាសាអង់គ្លេសនៅថ្ងៃសុក្រ។",
+   "flat": true,
+   "hook": "test",
+   "img": "img/c8-test.svg",
+   "ko": "We have an English test on Friday.",
+   "sec": "results"
+  },
+  {
+   "alt": "A paper with a top mark",
+   "audio": "audio/c9.mp3",
+   "en": "គាត់ទទួលបានពិន្ទុខ្ពស់ក្នុងភាសាអង់គ្លេស។",
+   "flat": true,
+   "hook": "mark",
+   "img": "img/c9-mark.svg",
+   "ko": "He got a high mark in English.",
+   "sec": "results"
+  },
+  {
+   "alt": "A certificate with a ribbon",
+   "audio": "audio/c10.mp3",
+   "en": "នាងទទួលបានវិញ្ញាបនបត្រសម្រាប់ការងារល្អរបស់នាង។",
+   "flat": true,
+   "hook": "certificate",
+   "img": "img/c10-certificate.svg",
+   "ko": "She got a certificate for her good work.",
+   "sec": "results"
+  }
+ ],
+ "description": "Ten school words from Power Up Level 6 Unit 5 for class 6B: picture cards with native English audio, Q&A, vocabulary and full text, with Khmer translations.",
+ "explain": {
+  "tiles": [
+   {
+    "color": "#0052A4",
+    "en": "វគ្គសិក្សាដែលអ្នករៀន",
+    "img": "img/c1-book.svg",
+    "ko": "course"
+   },
+   {
+    "color": "#00A84D",
+    "en": "ការសរសេរអត្ថបទ",
+    "img": "img/c4-essay.svg",
+    "ko": "essay"
+   },
+   {
+    "color": "#00A84D",
+    "en": "ធ្វើការជាក្រុម",
+    "img": "img/c5-project.svg",
+    "ko": "project"
+   },
+   {
+    "color": "#EF7C1C",
+    "en": "បង្ហាញអ្វីដែលអ្នកដឹង",
+    "img": "img/c8-test.svg",
+    "ko": "test"
+   },
+   {
+    "color": "#EF7C1C",
+    "en": "រង្វាន់សម្រាប់ការងារល្អ",
+    "img": "img/c10-certificate.svg",
+    "ko": "certificate"
+   }
+  ],
+  "title": "The big picture",
+  "why": "These ten words let you talk about your whole school life in English: the lessons you take, the work you do, and the results you get."
+ },
+ "full": [
+  {
+   "title": "Lessons · មេរៀន",
+   "ko": "I take an English course after school. This book is for level six students. This term, we learn about school and travel.",
+   "en": "ខ្ញុំរៀនវគ្គភាសាអង់គ្លេសក្រោយម៉ោងសិក្សា។ សៀវភៅនេះសម្រាប់សិស្សកម្រិតទីប្រាំមួយ។ អាណត្តិសិក្សានេះ យើងរៀនអំពីសាលារៀន និងការធ្វើដំណើរ។"
+  },
+  {
+   "title": "School work · ការងារសាលា",
+   "ko": "Write a short essay about your school. Our team project is about clean water. Read the instructions before you start. Find information on the school website.",
+   "en": "សូមសរសេរអត្ថបទខ្លីមួយអំពីសាលារៀនរបស់អ្នក។ គម្រោងក្រុមរបស់យើងនិយាយអំពីទឹកស្អាត។ សូមអានការណែនាំមុនពេលអ្នកចាប់ផ្តើម។ សូមរកព័ត៌មាននៅលើគេហទំព័ររបស់សាលា។"
+  },
+  {
+   "title": "Results · លទ្ធផល",
+   "ko": "We have an English test on Friday. He got a high mark in English. She got a certificate for her good work.",
+   "en": "យើងមានការប្រឡងភាសាអង់គ្លេសនៅថ្ងៃសុក្រ។ គាត់ទទួលបានពិន្ទុខ្ពស់ក្នុងភាសាអង់គ្លេស។ នាងទទួលបានវិញ្ញាបនបត្រសម្រាប់ការងារល្អរបស់នាង។"
+  }
+ ],
+ "full_title": "The term, start to finish",
+ "published": "2026-11-09",
+ "qa": [
+  {
+   "items": [
+    {
+     "a": "No. A test is short and in class. An exam is longer and more important.",
+     "aen": "ទេ។ តេស្តខ្លី ហើយធ្វើក្នុងថ្នាក់។ ការប្រឡងធំវែងជាង ហើយសំខាន់ជាង។",
+     "audio": "audio/at1.mp3",
+     "q": "Is a test the same as an exam?",
+     "qaudio": "audio/qt1.mp3",
+     "qen": "តើតេស្តដូចគ្នានឹងការប្រឡងធំដែរឬទេ?",
+     "why": "Your Friday English test is a test, not an exam."
+    },
+    {
+     "a": "Say mark for school work. A point is one small part of a mark.",
+     "aen": "សូមនិយាយ mark សម្រាប់ការងារសាលា។ point គឺជាផ្នែកតូចមួយនៃពិន្ទុ។",
+     "audio": "audio/at2.mp3",
+     "q": "Do I say mark or point for my score?",
+     "qaudio": "audio/qt2.mp3",
+     "qen": "តើខ្ញុំគួរនិយាយ mark ឬ point សម្រាប់ពិន្ទុរបស់ខ្ញុំ?",
+     "why": "British English uses mark: a high mark, a low mark, 10 out of 10."
+    }
+   ],
+   "kind": "trap",
+   "note": "Two mix-ups learners make with these words.",
+   "small": "Easy mistakes · read these first",
+   "title": "Traps"
+  },
+  {
+   "items": [
+    {
+     "a": "I am taking an English course at level six.",
+     "aen": "ខ្ញុំកំពុងរៀនវគ្គភាសាអង់គ្លេសនៅកម្រិតទីប្រាំមួយ។",
+     "audio": "audio/ac1.mp3",
+     "q": "What course are you taking?",
+     "qaudio": "audio/qc1.mp3",
+     "qen": "តើអ្នកកំពុងរៀនវគ្គអ្វី?"
+    },
+    {
+     "a": "My next English test is on Friday.",
+     "aen": "តេស្តភាសាអង់គ្លេសបន្ទាប់របស់ខ្ញុំគឺនៅថ្ងៃសុក្រ។",
+     "audio": "audio/ac2.mp3",
+     "q": "When is your next test?",
+     "qaudio": "audio/qc2.mp3",
+     "qen": "តើតេស្តបន្ទាប់របស់អ្នកនៅពេលណា?"
+    },
+    {
+     "a": "I got a high mark for my essay.",
+     "aen": "ខ្ញុំទទួលបានពិន្ទុខ្ពស់សម្រាប់អត្ថបទរបស់ខ្ញុំ។",
+     "audio": "audio/ac3.mp3",
+     "q": "What mark did you get for your essay?",
+     "qaudio": "audio/qc3.mp3",
+     "qen": "តើអ្នកទទួលបានពិន្ទុប៉ុន្មានសម្រាប់អត្ថបទរបស់អ្នក?"
+    }
+   ],
+   "kind": "qa",
+   "note": "Answer in your head, then tap Listen to compare.",
+   "small": "Questions your teacher may ask you",
+   "title": "In class"
+  },
+  {
+   "items": [
+    {
+     "audio": "audio/s1.mp3",
+     "en": "សូមលោកគ្រូនិយាយការណែនាំម្តងទៀតបានទេ?",
+     "ko": "Can you repeat the instructions, please?"
+    },
+    {
+     "audio": "audio/s2.mp3",
+     "en": "ខ្ញុំត្រូវការព័ត៌មានបន្ថែម សូម។",
+     "ko": "I need more information, please."
+    }
+   ],
+   "kind": "surv",
+   "note": "Short lines that always work.",
+   "small": "Lines that help you in class",
+   "title": "When you are stuck"
+  }
+ ],
+ "qa_tab": {
+  "en": "Q&A",
+  "ko": "Questions"
+ },
+ "sections": [
+  {
+   "color": "#0052A4",
+   "en": "មេរៀន",
+   "id": "lessons",
+   "ko": "Lessons"
+  },
+  {
+   "color": "#00A84D",
+   "en": "ការងារសាលា",
+   "id": "work",
+   "ko": "School work"
+  },
+  {
+   "color": "#EF7C1C",
+   "en": "លទ្ធផល",
+   "id": "results",
+   "ko": "Results"
+  }
+ ],
+ "slug": "power-up-6-unit-5-school-words",
+ "spine": {
+  "note": "One school term, in order: join a course, do your school work, then get your results.",
+  "title": "The route"
+ },
+ "subtitle": "Power Up Level 6 · Unit 5 · Study smarter",
+ "title_en": "ពាក្យអំពីសាលារៀន",
+ "title_ko": "School Words",
+ "vocab": [
+  {
+   "color": "#0052A4",
+   "items": [
+    {
+     "en": "វគ្គសិក្សា",
+     "ko": "course",
+     "audio": "audio/v01.mp3"
+    },
+    {
+     "en": "កម្រិត",
+     "ko": "level",
+     "audio": "audio/v02.mp3"
+    },
+    {
+     "en": "អាណត្តិសិក្សា",
+     "ko": "term",
+     "audio": "audio/v03.mp3"
+    }
+   ],
+   "title": "Lessons"
+  },
+  {
+   "color": "#00A84D",
+   "items": [
+    {
+     "en": "អត្ថបទ",
+     "ko": "essay",
+     "audio": "audio/v04.mp3"
+    },
+    {
+     "en": "គម្រោង",
+     "ko": "project",
+     "audio": "audio/v05.mp3"
+    },
+    {
+     "en": "ការណែនាំ",
+     "ko": "instructions",
+     "audio": "audio/v06.mp3"
+    },
+    {
+     "en": "ព័ត៌មាន",
+     "ko": "information",
+     "audio": "audio/v07.mp3"
+    }
+   ],
+   "title": "School work"
+  },
+  {
+   "color": "#EF7C1C",
+   "items": [
+    {
+     "en": "តេស្ត / ការប្រឡងខ្លី",
+     "ko": "test",
+     "audio": "audio/v08.mp3"
+    },
+    {
+     "en": "ពិន្ទុ",
+     "ko": "mark",
+     "audio": "audio/v09.mp3"
+    },
+    {
+     "en": "វិញ្ញាបនបត្រ",
+     "ko": "certificate",
+     "audio": "audio/v10.mp3"
+    }
+   ],
+   "title": "Results"
+  }
+ ]
+}
